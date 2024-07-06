@@ -11,7 +11,14 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@splinetool/runtime": "^1.8.2",
+    "animate.css": "^4.1.1",
+    "axios": "^1.7.2",
+    "default-passive-events": "^2.0.0",
+    "echarts": "^5.5.1",
+    "js-cookie": "^3.0.5",
     "pinia": "^2.1.7",
+    "v-scale-screen": "^2.2.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
@@ -22,6 +29,8 @@
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.23.0",
     "prettier": "^3.2.5",
-    "vite": "^5.2.8"
+    "sass": "^1.77.6",
+    "vite": "^5.2.8",
+    "vite-plugin-qiankun": "^1.0.15"
   }
 }
